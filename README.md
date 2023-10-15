@@ -1,6 +1,6 @@
-# Hi there 👋
-# 🔭 I’m currently a sophomore at IITK
-# 🌱 I’m studying Biological Sciences and Bioengineering
+Hi there 👋
+🔭 I’m currently a sophomore at IITK
+🌱 I’m studying Biological Sciences and Bioengineering
 
 <!--
 **DebDDash/DebDDash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
